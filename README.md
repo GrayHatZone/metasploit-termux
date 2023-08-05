@@ -2,7 +2,7 @@
 
 <img src="msf.svg" align="center" width=200 height=200 />
 
-Install the latest version of metasploit framework in Android using termux without any error
+Simple script to Install the latest version of metasploit framework in Android using termux
 
 # Screenshot
 
@@ -10,6 +10,6 @@ Install the latest version of metasploit framework in Android using termux witho
 
 # Installation
 
-<pre><code>curl link | bash</code></pre>
+<pre><code>curl https://raw.githubusercontent.com/GrayHatZone/metasploit-termux/main/metasploit.sh | bash</code></pre>
 
 # Join us
