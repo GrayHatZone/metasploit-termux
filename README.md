@@ -1,6 +1,6 @@
 # metasploit-termux
 
-<img src="msf.svg" align=center width=200 height=200 />
+<img src="msf.svg" align="center" width=200 height=200 />
 
 Install the latest version of metasploit framework in Android using termux without any error
 
