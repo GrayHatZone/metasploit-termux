@@ -10,7 +10,7 @@ Simple script to Install the latest version of metasploit framework in Android u
 
 # Installation
 
-<pre><code>curl https://raw.githubusercontent.com/GrayHatZone/metasploit-termux/main/metasploit.sh | bash</code></pre>
+<pre><code>curl -s https://raw.githubusercontent.com/GrayHatZone/metasploit-termux/main/metasploit.sh | bash</code></pre>
 
 # Join us
 
